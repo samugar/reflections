@@ -3,3 +3,6 @@ creates the .git file
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 granularity!
+
+How can you use the staging area to make sure you have one commit per logical change?
+adding only files relevant to the logical change to be commmited
